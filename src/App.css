@@ -13,11 +13,7 @@
        
   
 }
-.App:hover{
-  
-  border-radius:50%;
 
-}
 li{
  list-style-type: none;
  cursor: pointer;
